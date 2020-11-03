@@ -1,0 +1,16 @@
+.container-about {
+   max-width: 70vw;
+   height: 90vh;
+
+   position: relative;
+   left: 25vw;
+   
+   
+   
+
+   background-image: url("../../assets/turtle-5674361.svg");
+   background-size: 30vw 30vh;
+   background-repeat: no-repeat;
+
+}
+

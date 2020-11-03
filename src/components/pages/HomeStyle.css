@@ -1,0 +1,14 @@
+.container-home {
+   position: relative;
+   left: 15vw;
+
+   background-image: url(../../assets/girl-5702091.svg);
+   background-repeat: no-repeat;
+
+   width: 60vw;
+}
+
+.container-home h2 {
+   position: relative;
+   left: 7em;
+}

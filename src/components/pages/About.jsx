@@ -1,7 +1,15 @@
-import React from 'react'
+import React, { useState } from 'react'
 
-export default _ =>
-   <div>
-      <h2>PAGE About Accomplishment</h2>
-    
-   </div>
+import "./AboutStyle.css"
+
+export default _ => {
+
+   
+
+   return (
+      <div className="container-about">
+         
+      </div>
+   )
+}
+
