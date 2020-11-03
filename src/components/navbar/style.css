@@ -1,0 +1,40 @@
+h2 {
+   text-align: center;
+   padding:5em;
+   font-size:bold;
+}
+
+.navbar {
+   position: absolute;
+   left: 0;
+   
+   width:20vw;
+   height: 100vh;
+   max-height: 100vh;
+
+   background: #ffd89b;
+   background: -webkit-linear-gradient(to left, #19547b, #ffd89b);
+   background: linear-gradient(to left, #19547b, #ffd89b);
+
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+
+}
+
+
+
+.navbar li {
+   
+   margin-top: 2em;
+   list-style: none;
+}
+
+.navbar-Link {
+   color: #fff;
+   text-decoration: none;
+   letter-spacing: 2px;
+   font-size: 0.8rem;
+   font-weight: bold;
+   text-transform: uppercase;
+}
